@@ -65,12 +65,16 @@
     {
       "name": "Bertrand Zuchuat",
       "email": "bertrand.zuchuat@gmail.com"
-    }
+    },
+	{
+	  "name": "Guillaume Lebigot",
+	  "email": "axel@teri-chan.net"
+	}
   ],
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/cospired/i18n-iso-languages.git"
+    "url": "https://github.com/karaoke-mugen/i18n-iso-languages.git"
   },
   "devDependencies": {
     "@cospired/eslint-config-base": "^6.0.0",
