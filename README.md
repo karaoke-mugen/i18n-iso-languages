@@ -10,6 +10,10 @@ i18n for ISO 639 language codes. We support Alpha-2, Alpha-3 B and T codes from 
 This packages is heavily based on [i18n-iso-countries](https://github.com/michaelwittig/node-i18n-iso-countries).
 
 We intent to keep the interface of i18n-iso-languages as close as possible to i18n-iso-countries.
+
+## This fork
+
+This adds the `qjr` private language for Karaoke Mugen (japanese romaji)
 ## Installing
 
 Install it using npm: `npm install @cospired/i18n-iso-languages`
