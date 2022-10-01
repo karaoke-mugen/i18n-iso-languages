@@ -13,7 +13,7 @@ We intent to keep the interface of i18n-iso-languages as close as possible to i1
 
 ## This fork
 
-This adds the `qjr` private language for Karaoke Mugen (japanese romaji)
+This adds the `qro` private language for Karaoke Mugen (latin romanization)
 ## Installing
 
 Install it using npm: `npm install @cospired/i18n-iso-languages`
