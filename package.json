@@ -1,6 +1,6 @@
 {
   "name": "@karaokemugen/i18n-iso-languages",
-  "version": "4.0.2",
+  "version": "4.0.3",
   "description": "i18n for ISO 639 language codes",
   "typings": "index.d.js",
   "keywords": [
@@ -66,14 +66,14 @@
       "name": "Bertrand Zuchuat",
       "email": "bertrand.zuchuat@gmail.com"
     },
-	{
-	  "name": "Guillaume Lebigot",
-	  "email": "axel@teri-chan.net"
-	},
-	{
-	  "name": "Florent Berthelot",
-	  "email": "florentius.b@gmail.com"
-	}
+    {
+      "name": "Guillaume Lebigot",
+      "email": "axel@teri-chan.net"
+    },
+    {
+      "name": "Florent Berthelot",
+      "email": "florentius.b@gmail.com"
+    }
   ],
   "license": "MIT",
   "repository": {
