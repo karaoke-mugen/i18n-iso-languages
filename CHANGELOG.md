@@ -1,5 +1,20 @@
 # Changelog
 
+## [Unreleased]
+
+- added Tamil translations
+
+## 4.2.0
+
+- added Arabic translations
+- added Bulgarian translations
+- added Korean translations
+- added Slovak translations
+
+## 4.1.0
+
+- added Hebrew translations
+
 ## 4.0.1
 
 - dependabot dependency updates
